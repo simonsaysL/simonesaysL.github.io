@@ -1,2 +1,2 @@
-# simonesaysL.github.io
+# simonsaysL.github.io
 just another personal page
