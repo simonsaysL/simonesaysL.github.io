@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Hi, I'm Simone
+## Simone Liuzzi's personal webpage
