@@ -39,6 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: website
+    url: http://simoneliuzzi.me
   - title: twitter
     url: http://twitter.com/simoneliuzzi
   #- title: facebook
