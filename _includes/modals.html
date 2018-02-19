@@ -21,8 +21,7 @@
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
-                                        url_string = {{ post.url }}
-                                        <strong><a href= url_string >{{ post.client }}</a>
+                                        <strong><a href= {post.url} >{{ post.client }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
